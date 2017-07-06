@@ -1,10 +1,8 @@
-Documentos do PHPMG
-================
+# Documentos do Sapucaia Tech
 
-Repositório com todos os documentos da comunidade de PHP de Minas Gerais.
+Repositório com todos os documentos da comunidade Sapucaia Tech.
 
-- [Código de conduta] (https://github.com/phpmg/documentos/blob/master/codigo-de-conduta.md)
-- [Arquivos base da logo] (https://github.com/phpmg/documentos/tree/master/logo)
+* [Código de conduta](./codigo-de-conduta.md)
 
 ## Contribuição
 
